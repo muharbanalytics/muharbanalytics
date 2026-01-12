@@ -6,4 +6,3 @@
 🕴️ Architechtecting Intelligent Systems for a sustainable business growth 📈<br/>
 🌐 I am an advocate for Sustatiable Goal 3 and 8 (Good health for all and Economic growth)<br/>
 
-[![muharbabalytics's GitHub stats](https://github-readme-stats.vercel.app/api?username=muharbanalytics&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
