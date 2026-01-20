@@ -35,11 +35,5 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![image](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muharbanalytics&show_icons=true&theme=forest" width="45%" alt="Mujeeb's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muharbanalytics&layout=compact&theme=forest" width="45%" alt="Top Languages" />
-</p>
 
 
