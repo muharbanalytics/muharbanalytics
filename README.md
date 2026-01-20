@@ -6,6 +6,8 @@
 🕴️ Architechtecting Intelligent Systems for a sustainable business growth 📈<br/>
 🌐 I am an advocate for Sustatiable Goal 3 and 8 (Good health for all and Economic growth)<br/>
 
+---
+
 # 💻 Tech Stack
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -33,6 +35,11 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![image](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
+---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muharbanalytics&show_icons=true&theme=forest" width="45%" alt="Mujeeb's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muharbanalytics&layout=compact&theme=forest" width="45%" alt="Top Languages" />
+</p>
 
 
